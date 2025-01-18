@@ -1,0 +1,2 @@
+GIST_LINK = username/gist id
+GIST_PAT = Key
